@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fayn2009
+- 👀 ...
+- 💻 I can program in the python programming language.
+- 💞️ My company: No
+- 📫 eMAIL: No
